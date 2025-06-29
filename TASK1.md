@@ -2,13 +2,7 @@
 
 
 
-#              **PUSH BUTTON COUNTER**
-
-
-
-## &nbsp;                      **CODE**
-
-A#include <LiquidCrystal.h>
+#include <LiquidCrystal.h>
 
 
 
@@ -90,17 +84,7 @@ void loop() {
 
 
 
-##                  **output demonstration** 
 
-&nbsp;  
-
-On startup, the LCD displays: Count: 0
-
-
-
-Each time the button is pressed: Counter increases (e.g., Count: 1, Count: 2, ...)
-
-&nbsp;   LED blinks briefly to confirm the press
 
 
 
